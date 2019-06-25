@@ -20,6 +20,12 @@
       "description": "This is my very fourth test stream",
       "userId": "112859328459144968315",
       "id": 4
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "This will automatically navigate to the all streams page",
+      "userId": "112859328459144968315",
+      "id": 5
     }
   ]
 }

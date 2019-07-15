@@ -1,24 +1,16 @@
 {
   "streams": [
     {
-      "title": "My First Stream",
-      "description": "This is my very first stream",
+      "title": "My first video stream 😃",
+      "description": "This is my very first video stream with OBS",
+      "userId": "112859328459144968315",
       "id": 1
     },
     {
-      "title": "My Second Stream",
-      "description": "This is my very second stream",
+      "title": "This is my second video stream",
+      "description": "This is my very second video stream with OBS",
+      "userId": "112859328459144968315",
       "id": 2
-    },
-    {
-      "title": "My third stream",
-      "description": "I love Adesewa so much",
-      "id": 3
-    },
-    {
-      "title": "Programmatic Navigation in React",
-      "description": "This will automatically navigate to the all streams page after clicking the submit button",
-      "id": 5
     }
   ]
 }
